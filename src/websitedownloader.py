@@ -44,7 +44,7 @@ def main():
     port = 80
     #Creating a socket or initializing
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    print("Student_1:Jahnavi Latha Laveti\nStudent_2:Sesha Sai Kashyap Addanki\nThe program is interpreted correctly and completely verified. Images are downloaded")
+    print("Student_1:Sesha Sai Kashyap Addanki\nThe program is interpreted correctly and completely verified. Images are downloaded")
     #Getting the ip address of the host name of the website
     ipAddress = socket.gethostbyname(website)
     #printing the ip Address
